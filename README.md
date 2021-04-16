@@ -2,4 +2,4 @@
 - 👀 I’m interested in Back-end & Front-end & Android
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1452606865@qq.com or Jater.Zhu@tymphany.com
+- 📫 How to reach me 1452606865@qq.com or Jater.Zhu@tymphany.com or jater.zhu@outlook.com
