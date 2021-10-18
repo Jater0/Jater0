@@ -8,5 +8,3 @@
     - Back-end(SpringBoot)
     - Front-end(Wechat Mini-Program & Electron.Js)
     - Moblie(Android by Kotlin; Maybe IOS)
-  - File Manager(Wechat Mini-Program) --- Filoading
-    - Top Secret Now
