@@ -2,9 +2,4 @@
 - 👀 I’m interested in Back-end & Front-end & Android
 - 🌱 I’m currently learning Swift & TypeScript & Objective-c
 - 📫 How to reach me: 1452606865@qq.com or jater.zhu@outlook.com
-- 🔭
-  - 2022 TODO: 
-    - BBS System(Full Stack) --- [JForum](https://github.com/Jater0/jforum.git)
-      - Back-end(SpringBoot)
-      - Front-end(Wechat Mini-Program & Electron.Js)
-      - Moblie(Android by Jetpack Compose; IOS by SwiftUI)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jater0&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="jaterchu" /></p>
