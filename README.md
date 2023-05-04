@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [@JaterChu](https://github.com/Jater0), developer from Shenzhen China🇨🇳
+- 👷 An engineer, a Communist
 - 👀 I’m interested in Front-end && iOS
 - 🌱 I’m currently learning Swift & TypeScript & Objective-c & Vue.js
 - 📫 How to reach me: 1452606865@qq.com or jater.zhu@outlook.com
