@@ -1,10 +1,10 @@
-**🇨🇳 Free Palestine 🇵🇸**
+![faith](./faith.jpeg)
+
+**🇨🇳🇨🇳🇨🇳 Free Palestine 🇵🇸🇵🇸🇵🇸**
 
 **Stop killing babies & citizens in Gaza**
 
 **From the river to the sea**
-
-![faith](./faith.jpeg)
 
 - 👋 Hi, I’m [@JaterChu](https://github.com/Jater0), Front-end & iOS developer from **Shenzhen,China(中国深圳)🇨🇳**, born in **Wuchuan,Zhanjiang,Western Canton(粤西湛江吴川市)**
 - 👷 An engineer, a **communist**
